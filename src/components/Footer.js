@@ -9,6 +9,7 @@ const Footer = () => {
           <li class="list-inline-item fa-2x"><a href="https://github.com/eamahma"><FaGithub /></a></li>
           <li class="list-inline-item fa-2x"><a href="https://www.linkedin.com/in/amir-ahmadi-858110190/"><FaLinkedin /></a></li>
           <li class="list-inline-item fa-5x"><a href="https://twitter.com/aammiirr"><FaTwitter /></a></li>
+          <li class="list-inline-item fa-5x"><a href="https://twitter.com/aammiirr"><img src="./assets/linkedin.png" alt="twitter"/></a></li>
         </ul>
       </div>
 

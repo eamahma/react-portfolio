@@ -9,6 +9,7 @@ main {
   --primary: #8c54ff;
   --secondary: #F3A847;
   --tertiary: #B12704;
+  --dark-blue: #1d0979;
   --light: #fafafa;
   --cultured: #A3A3A3;
   --dark: #000000;
@@ -403,4 +404,12 @@ a {
 a, a:hover, a:focus, a:active {
   text-decoration: none;
   color: inherit;
+}
+
+.card {
+  opacity: 0.5;
+}
+
+.card:hover {
+  opacity: 1;
 }
