@@ -2,11 +2,11 @@
     {
         "id": 1,
         "name": "Budget Tracker",
-        "image": "https://github.com/eamahma/budget-tracker/blob/main/assets/img/Heroku-IndexedDB-Offline.png",
+        "image": "https://github.com/eamahma/budget-tracker/raw/main/assets/img/powerful-taiga-92657.herokuapp.com.png",
         "github": "https://github.com/eamahma/budget-tracker",
         "deploy": "https://powerful-taiga-92657.herokuapp.com/",
         "topics": "PWA, Mongodb offline/online budget tracking"
-    },
+    },  
     {
         "id": 2,
         "name": "Workout Tracker",
@@ -15,10 +15,11 @@
         "deploy": "https://protected-castle-13240.herokuapp.com/?id=615a04402881a30016a479ee",
         "topics": "Mongodb, Deployed on Heroku with Mongodb Atlas database"
     },
+  
     {
         "id": 3,
         "name": "Tech Blog",
-        "image": "https://github.com/eamahma/tech_blog/blob/main/assets/home.png",
+        "image": "https://github.com/eamahma/tech_blog/raw/main/assets/home.png",
         "github": "https://github.com/eamahma/tech_blog",
         "deploy": "https://shielded-savannah-66050.herokuapp.com/",
         "topics": "MVC, SQL, Nodejs and Express"
@@ -34,17 +35,17 @@
     {
         "id": 5,
         "name": "Weather Dashboard",
-        "image": "https://github.com/eamahma/weather-dashboard/blob/main/img/weather_dashboard.png",
+        "image": "https://github.com/eamahma/weather-dashboard/blob/main/img/weather_dashboard.png?raw=true",
         "github": "https://github.com/eamahma/weather-dashboard",
         "deploy": "https://eamahma.github.io/weather-dashboard/",
-        "topics": "API, Javascript"
+        "topics": "Javascript, API"
     },
 
     {
         "id": 6,
         "name": "Work Day Scheduler",
         "image": "https://github.com/eamahma/Work_Day_Scheduler/raw/main/img/eamahma.github.io_Work_Day_Scheduler.png",
-        "github": "https://github.com/eamahma/Work_Day_Schedulerhttps://github.com/eamahma/Work_Day_Scheduler",
+        "github": "https://github.com/eamahma/Work_Day_Scheduler",
         "deploy": "https://eamahma.github.io/Work_Day_Scheduler/",
         "topics": "HTML & CSS"
     }
