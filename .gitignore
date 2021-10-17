@@ -26,12 +26,3 @@ yarn-error.log*
 /mod_src
 /sample_src
 /react_src
-App.css
-index.css
-/src/components/Contact.js
-/src/components/Footer.js
-/src/components/Navigation.js
-/src/components/Portfolio.js
-/src/components/Project.js
-/src/components/Resume.js
-/src/utils/helpers.js
