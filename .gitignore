@@ -26,7 +26,6 @@ yarn-error.log*
 /mod_src
 /sample_src
 /react_src
-portfolio.json
 App.css
 index.css
 /src/components/Contact.js
