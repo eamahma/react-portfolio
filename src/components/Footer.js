@@ -3,7 +3,7 @@ import {FaTwitter, FaLinkedin, FaGithub} from 'react-icons/fa'
 
 const Footer = () => {
   return (
-    <footer className="w-100 mt-auto p-4">
+    <footer className="w-100 mt-auto fixed-bottom">
       <div className="container text-white text-center mb-5">
         <ul class="list-inline  text-center">
           <li class="list-inline-item fa-2x"><h4><a href="https://github.com/eamahma"><FaGithub /></a></h4></li>

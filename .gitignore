@@ -21,8 +21,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# hold
-/mod_src
-/sample_src
-/react_src
