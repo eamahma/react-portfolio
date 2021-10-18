@@ -431,7 +431,7 @@ a, a:hover, a:focus, a:active {
 .card-img-overlay:hover a h4{
   visibility: visible;
   display: inline;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .card-title:hover {

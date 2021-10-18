@@ -11,10 +11,11 @@ function Navigation(props) {
             <h4 class="nav-title-font">Amir Ahmadi</h4>
           </div>
         </NavLink>
-          <ul class="navbar-nav ml-auto navitem-indent">
+        {/* <ul class="navbar-nav ml-auto navitem-indent navbar-right"> */}
+        <ul class="nav navbar-nav navbar-right">
             <li class="nav-item">
               <NavLink to="/about">
-                <div class="nav-font text-light">About</div>
+                <div class="nav-font text-light">About Me</div>
               </NavLink>
             </li>
             <li class="nav-item">
