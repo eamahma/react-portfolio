@@ -337,6 +337,10 @@ textarea {
   justify-content: center; 
 } 
 
+footer {
+  background: var(--dark);
+}
+
 .icon {
   padding: 10px;
 }
@@ -406,10 +410,28 @@ a, a:hover, a:focus, a:active {
   color: inherit;
 }
 
-.card {
-  opacity: 0.5;
+.card img {
+  opacity: 1;
 }
 
-.card:hover {
-  opacity: 1;
+.card:hover img {
+  opacity: 0.3;
+}
+
+.card-img-overlay a h4{
+  visibility: hidden;
+}
+
+.card-img-overlay:hover a h4{
+  visibility: visible;
+  display: inline;
+  font-weight: 400;
+}
+
+.card-title:hover {
+  font-weight: 600;
+}
+
+.card-icon:hover {
+  font-weight: 600;
 }
