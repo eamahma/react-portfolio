@@ -11,8 +11,9 @@ function ProjectCards(props) {
         <img class="card-img" src={props.image} alt={props.name}/>
         <div class="card-img-overlay">
           <a href={props.deploy}><h4 class="card-title">{props.name}</h4></a>
+          <h6 class="card-topic">{props.topics}</h6>
           <a href={props.github}><h4 class="card-icon"><FaGithub /></h4></a>
-        </div>
+          </div>
       </div>
     );
 }

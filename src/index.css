@@ -431,7 +431,25 @@ a, a:hover, a:focus, a:active {
 
 .card-img-overlay:hover a h4{
   visibility: visible;
-  display: inline;
+  /* display: inline; */
+  font-weight: 600;
+}
+
+.card-img-overlay a h4:hover{
+  visibility: visible;
+  font-weight: 800;
+}
+
+.card-icon:hover {
+  font-size: 2em;
+}
+
+.card-img-overlay h6{
+  visibility: hidden;
+}
+
+.card-img-overlay:hover h6{
+  visibility: visible;
   font-weight: 600;
 }
 

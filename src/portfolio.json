@@ -5,7 +5,7 @@
         "image": "https://github.com/eamahma/budget-tracker/raw/main/assets/img/powerful-taiga-92657.herokuapp.com.png",
         "github": "https://github.com/eamahma/budget-tracker",
         "deploy": "https://powerful-taiga-92657.herokuapp.com/",
-        "topics": "PWA, Mongodb offline/online budget tracking"
+        "topics": "PWA"
     },  
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "image": "https://github.com/eamahma/workout-tracker/raw/main/assets/protected-castle-13240.herokuapp.com_stats.png",
         "github": "https://github.com/eamahma/workout-tracker",
         "deploy": "https://protected-castle-13240.herokuapp.com/?id=615a04402881a30016a479ee",
-        "topics": "Mongodb, Deployed on Heroku with Mongodb Atlas database"
+        "topics": "Mongodb"
     },
   
     {
@@ -22,7 +22,7 @@
         "image": "https://github.com/eamahma/tech_blog/raw/main/assets/home.png",
         "github": "https://github.com/eamahma/tech_blog",
         "deploy": "https://shielded-savannah-66050.herokuapp.com/",
-        "topics": "MVC, SQL, Nodejs and Express"
+        "topics": "MVC"
     },
     {
         "id": 4,
@@ -30,7 +30,7 @@
         "image": "https://user-images.githubusercontent.com/84198162/125543502-7429eeb5-8384-4286-9582-42de4103f52d.png",
         "github": "https://github.com/mels065/move-towards-the-movies",
         "deploy": "https://mels065.github.io/move-towards-the-movies/",
-        "topics": "Team project API, Javascript"
+        "topics": "Team project - Javascript, API"
     },    
     {
         "id": 5,
