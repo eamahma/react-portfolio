@@ -1,4 +1,4 @@
-# React Portfolio
+# Personal React Portfolio
 
 Professional portfolio using React by breaking down user interface into different components. The page also deployed on GitHub Pages.
 
